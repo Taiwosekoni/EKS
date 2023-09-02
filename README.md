@@ -85,10 +85,10 @@ kubectl version --client
 ######## Configure AWS CLI using ACCESS Key & Secret Key ########
 
 aws configure
-  AKIAZ4OOD*********BSER
-  cmNqZPvgmYtT2wOZ8*****************U
-  us-west-1
-  json
+  Access Key ========
+  Secret Key ========
+  region=============us-west-1
+  Default output format=====json
 
 .##### Get KubeConfig file #####
 
